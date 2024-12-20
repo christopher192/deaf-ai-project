@@ -1,0 +1,7 @@
+librosa
+pydub
+sentencepiece
+torch
+torchmetrics
+transformers
+youtube_dl
